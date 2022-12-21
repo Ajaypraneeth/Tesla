@@ -1,5 +1,5 @@
 import React from "react";
-import Middle from "../Middle/middle";
+import Middle from "../Body/Middle/middle"
 import Model3 from '../Images/Model3.png'
 import ModelY from '../Images/ModelY.png'
 import ModelS from '../Images/ModelS.png'
