@@ -1,0 +1,36 @@
+.item{
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.item-text{
+    color: black;
+    font-weight: 600;
+    margin-top: 90px;
+    font-size: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.item-desc{
+    cursor: pointer;
+}
+.firstB {
+    border: none;
+    border-radius: 5px;
+    background-color: #27272c;
+    color: white;
+    height: 40px;
+    width: 300px;
+    font-size: 15px;
+    margin-right: 50px;
+    margin-top: 300px;
+}
+.secondB {
+    border: none;
+    border-radius: 5px;
+    background-color: rgba(244, 244, 244, 0.65);
+    color: rgb(0, 0, 0);
+    height: 40px;
+    width: 300px;
+    font-size: 15px;
+}

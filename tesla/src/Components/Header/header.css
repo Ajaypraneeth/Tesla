@@ -1,0 +1,44 @@
+.header{
+    font-weight: 600;
+    position: fixed;
+    width: 99vw;
+}
+.main{
+    margin-left: 100px;
+}
+
+.ghostItem{
+    border: 0px solid transparent;
+    padding: 5px;
+    cursor: pointer;
+}
+.header_logo{
+    height: 20px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.header_logo img{
+    height: 13px;
+    width: 120px;
+}
+.header_center{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+.header_center p{
+    margin: 10px;
+}
+.header_right{
+    margin-right: 15px;
+}
+.ghostItem{
+    border: solid 1px transparent;
+    border-radius: 10px;
+    padding: 5px;
+}
+.ghostItem:hover{
+    transition: 0.5s;
+    background-color: rgba(156, 184, 187, 0.7);
+}
